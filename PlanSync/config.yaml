@@ -1,0 +1,7 @@
+name: "PlanSync"
+version: "1.0"
+slug: "plansync"
+description: "Dodatek do synchronizacji planu"
+startup: services
+boot: auto
+image: "ghcr.io/rafikg523/plansync-{arch}"
