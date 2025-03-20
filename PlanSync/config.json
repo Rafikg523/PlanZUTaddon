@@ -1,0 +1,13 @@
+{
+    "name": "PlanSync",
+    "version": "1.0",
+    "slug": "plansync",
+    "description": "Synchronizacja planu z Google Calendar",
+    "startup": "services",
+    "boot": "auto",
+    "arch": ["amd64", "aarch64"],
+    "options": {},
+    "schema": {},
+    "image": "local/plansync"
+  }
+  
